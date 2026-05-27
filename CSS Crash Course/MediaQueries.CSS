@@ -1,0 +1,23 @@
+div {
+  background-color: rgb(49, 12, 12);
+  color: white;
+  font-size: 150%;
+}
+
+@media (max-width: 992px) {
+  div {
+    font-size: 150%;
+  }
+}
+
+@media (max-width: 768px) {
+  div {
+    font-size: 120%;
+  }
+}
+
+@media (max-width: 576px) {
+  div {
+    font-size: 100%;
+  }
+}

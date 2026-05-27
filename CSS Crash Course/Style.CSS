@@ -1,0 +1,70 @@
+h1 {
+  background-color: rgb(135, 206, 240);
+  color: rgb(66, 0, 128, 0.7);
+  border-radius: 10%;
+  border-color: darkblue;
+  border-style: dotted;
+}
+h2 {
+  color: purple;
+}
+div {
+  width: 100%;
+  background-color: aquamarine;
+  height: 100%vh;
+  border: 3px solid blue;
+}
+.purple {
+  color: rgb(104, 25, 104);
+  font-weight: 600;
+  font-family: "Zen Dots", sans-serif;
+  font-size: 150%;
+}
+.red {
+  color: rgb(150, 1, 1);
+  font-weight: 600;
+  font-family: "Zen Dots", sans-serif;
+  font-size: 150%;
+}
+.large {
+  font-size: 300% !important;
+}
+#small {
+  font-weight: 100;
+  font-family: "Zen Dots", sans-serif;
+  font-size: 100%;
+}
+#home {
+  border: 3px solid black;
+  height: 80vh;
+}
+#info {
+  border: 3px solid black;
+  border-style: dotted;
+  height: 80vh;
+}
+#middle {
+  border: 1px solid black;
+}
+#footer {
+  border: 3px solid salmon;
+  height: 80vh;
+}
+footer {
+  font-size: 200%;
+}
+a {
+  font: size 150%;
+  font-family:
+    Comic system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+}
